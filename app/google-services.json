@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1035545952085",
+    "firebase_url": "https://audioplayer-49893.firebaseio.com",
+    "project_id": "audioplayer-49893",
+    "storage_bucket": "audioplayer-49893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035545952085:android:1229b0f2fc49186c",
+        "android_client_info": {
+          "package_name": "com.example.daniyal.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035545952085-me6ih1jrhihgci1atlch4pv4r1hhdjuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88I3wocm_Oq21etKkJrbxhd6gHG1zpq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
